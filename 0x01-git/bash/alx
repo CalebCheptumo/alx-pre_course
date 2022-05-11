@@ -1,6 +1,6 @@
 #!/bin/bash
-<<<<<<< HEAD
+HEAD
 ALX School is so cool!
-=======
+
 ALX School
->>>>>>> update_script
+update_script
